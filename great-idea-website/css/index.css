@@ -64,3 +64,100 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* .nav {
+	text-align: center;
+} */
+
+/* .section--1 {
+	display: inline;
+	text-align: center
+} */
+
+/* .section--1 {
+	text-align: center
+} */
+
+
+/* .section--1 {
+	display: inline-block;
+	text-align: center;
+} */
+
+/* .section {
+	width: 50%;
+	margin: 0 auto;
+} */
+
+/* .section--1 {
+	margin: 0 auto;
+} */
+
+/* .section--1__innovation, .section--1__on, .section--1__demand {
+	display: inline;
+	position: 
+} */
+
+/* .section--1 h1 {
+	display: inline;
+	vertical-align: 
+} */
+
+/* .section--1 {
+	width: 50%;
+} */
+
+.container {
+	width: 75%;
+	margin: 0 auto;
+}
+
+/* .nav {
+	display: block;
+	text-align: center;
+} */
+
+.nav--top a {
+	display: inline-block;
+	width: 13%;
+	text-decoration: none;
+	color: rgb(105, 105, 105)
+}
+
+.section--1 {
+	float: left;
+	width: 50%;
+	margin-top: 15%;
+	text-align: center;
+	font-size: 4.5em
+}
+
+/* .section--1_img {
+	margin-top: 1em;
+	display: block;
+	margin-top: 200px;
+	} */
+
+img.img.section--1__img {
+	margin-top: 9%;
+}
+
+h1#features {
+	width: 50%;
+	float: none;
+}
+
+p.section--2__p-features {
+    width: 50%;
+    float: left;
+}
+
+h1#about {
+    width: 50%;
+    float: right;
+}
+
+p.section--2__p-about {
+    width: 50%;
+    float: right;
+}
